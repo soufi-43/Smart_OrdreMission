@@ -1,0 +1,60 @@
+﻿@model Smart_OrdreMission.Models.PersonFormViewModel
+
+<h2>Test View</h2>
+
+<h3>Selected Person:</h3>
+<pre>@System.Text.Json.JsonSerializer.Serialize(Model.SelectedPerson, new System.Text.Json.JsonSerializerOptions { WriteIndented = true })</pre>
+
+@if (Model?.SelectedPerson != null)
+{
+    <div>
+        <strong>Name:</strong> @Model.SelectedPerson.Name <br />
+        <strong>Fonction:</strong> @Model.SelectedPerson.Fonction <br />
+        <strong>Echelle:</strong> @Model.SelectedPerson.Echelle<br />
+
+        <strong>date of paper mission issue:</strong> @Model.mission.DateOfPaperIsuue<br />
+
+
+        <strong>DateTimeOfNow:</strong> @Model.mission.DateTimeOfNow<br />
+
+        <strong>itineraire:</strong> @Model.SelectedPerson.itinerary.Itineraire<br />
+
+        <strong>numero mission:</strong> @Model.mission.ReferenceOrdreMission<br />
+
+        <strong>heure arrivee :</strong> @Model.mission.ArrivingTime<br />
+        <strong>heure depart:</strong> @Model.mission.LeavingTime<br />
+
+
+        <strong>start point:</strong> @Model.SelectedPerson.itinerary.StartPoint<br />
+        <strong>mission point:</strong> @Model.SelectedPerson.itinerary.MissionPoint<br />
+        <strong>return point:</strong> @Model.SelectedPerson.itinerary.ReturnPoint<br />
+        <strong>mission object:</strong> @Model.mission.MissionObject<br />
+
+
+
+        <form asp-action="ExportMission" asp-controller="Home" method="post">
+            <!-- Hidden fields to carry model data if not already in inputs -->
+            <input type="hidden" name="SelectedPerson.Name" value="@Model.SelectedPerson.Name" />
+            <input type="hidden" name="SelectedPerson.MatriculeSAP" value="@Model.SelectedPerson.MatriculeSAP" />
+            <input type="hidden" name="SelectedPerson.Fonction" value="@Model.SelectedPerson.Fonction" />
+            <input type="hidden" name="SelectedPerson.itinerary.Itineraire" value="@Model.SelectedPerson.itinerary.Itineraire" />
+            <input type="hidden" name="mission.ReferenceOrdreMission" value="@Model.mission.ReferenceOrdreMission" />
+            <input type="hidden" name="mission.MissionObject" value="@Model.mission.MissionObject" />
+            <input type="hidden" name="mission.DateStartMission" value="@Model.mission.DateStartMission" />
+            <input type="hidden" name="mission.DateFinishMission" value="@Model.mission.DateFinishMission" />
+
+
+
+            <button class="shadow bg-yellow-700 hover:bg-yellow-500 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded mr-4" type="submit">
+                Export Mission Data
+            </button>
+        </form>
+
+
+
+    </div>
+}
+else
+{
+    <div>No person selected.</div>
+}
