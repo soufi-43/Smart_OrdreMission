@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f827338f-d75e-4aba-8538-2a99e85a986f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart_OrdreMission")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7ea37db05ff4adb22e21454e22e7557220c69e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart_OrdreMission")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart_OrdreMission")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

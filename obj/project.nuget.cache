@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sCBNXQRUW7heikMYO+4OZC8riuR6FqGrWdbeaqGXjKgqL483aBsgMEsvuRL3/O+yKMg9NarnyVu8KSCxPbBYQA==",
+  "dgSpecHash": "l5DSEt5ySY6LPXYt+d28t8RwULlELtmOJCH1Vht5leN9yBNG0mJeskhDASkJwgUdNPAGSScmXnl2awwP7Mk83A==",
   "success": true,
   "projectFilePath": "D:\\repos\\My_Personal_Repos\\Smart_OrdreMission\\Smart_OrdreMission\\Smart_OrdreMission.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
