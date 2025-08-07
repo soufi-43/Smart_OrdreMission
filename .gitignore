@@ -1,0 +1,18 @@
+# .NET build artifacts
+/bin/
+/obj/
+/publish/
+
+# User files
+*.user
+*.vs
+
+# Logs
+*.log
+
+# npm stuff
+node_modules/
+package-lock.json
+
+# VS Code
+.vscode/
