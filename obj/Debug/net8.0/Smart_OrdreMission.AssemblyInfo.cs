@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart_OrdreMission")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd82ec1400ac75eee9758eab3b6331b94022058")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f41f7bdfa99115e829c367e9fa19247ab290af1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart_OrdreMission")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart_OrdreMission")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

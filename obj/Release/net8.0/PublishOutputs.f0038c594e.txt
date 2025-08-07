@@ -1,0 +1,17 @@
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Smart_OrdreMission.exe
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\appsettings.Development.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\appsettings.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\package-lock.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\package.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Smart_OrdreMission.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Smart_OrdreMission.deps.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Smart_OrdreMission.runtimeconfig.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Smart_OrdreMission.pdb
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\EPPlus.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\EPPlus.Interfaces.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Microsoft.Extensions.Configuration.Json.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\Microsoft.IO.RecyclableMemoryStream.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\System.Security.Cryptography.Pkcs.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\System.Security.Cryptography.Xml.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\publish\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

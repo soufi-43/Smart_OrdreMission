@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Smart_OrdreMission
+build_property.RootNamespace = Smart_OrdreMission
+build_property.ProjectDir = D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/Indexx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleHguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_Disclaimer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRGlzY2xhaW1lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_DropDownMenuSections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRHJvcERvd25NZW51U2VjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_ExportMissionData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfRXhwb3J0TWlzc2lvbkRhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_InformationSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfSW5mb3JtYXRpb25TZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_NavHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTmF2SGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_Section4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU2VjdGlvbjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Home/_TimeInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVGltZUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/My_Personal_Repos/Smart_OrdreMission/Smart_OrdreMission/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-je9vc55gfu

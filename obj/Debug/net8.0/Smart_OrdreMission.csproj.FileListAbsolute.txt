@@ -41,3 +41,10 @@ D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\obj\Debug\net8.
 D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\obj\Debug\net8.0\Smart_OrdreMission.pdb
 D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\obj\Debug\net8.0\Smart_OrdreMission.genruntimeconfig.cache
 D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\obj\Debug\net8.0\ref\Smart_OrdreMission.dll
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\web.config
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\appsettings.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\package-lock.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\package.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\Smart_OrdreMission.deps.json
+D:\repos\My_Personal_Repos\Smart_OrdreMission\Smart_OrdreMission\bin\Debug\net8.0\publish\Smart_OrdreMission.runtimeconfig.json
